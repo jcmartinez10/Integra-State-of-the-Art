@@ -39,3 +39,184 @@ INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&user=BKfPimQAA
 INFO:scholarly:Session proxy config is {}
 INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=BKfPimQAAAAJ:MXK_kJrjxJIC
 INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=David%20%C3%81lvarez%20Mart%C3%ADnez
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Found 1 authors
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&user=BKfPimQAAAAJ&pagesize=100
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&user=BKfPimQAAAAJ&pagesize=100
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=David%20%C3%81lvarez%20Mart%C3%ADnez
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Found 1 authors
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&user=BKfPimQAAAAJ&pagesize=100
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&user=BKfPimQAAAAJ&pagesize=100
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=BKfPimQAAAAJ:MXK_kJrjxJIC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=BKfPimQAAAAJ:MXK_kJrjxJIC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=BKfPimQAAAAJ:MXK_kJrjxJIC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=BKfPimQAAAAJ:YOwf2qJgpHMC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=BKfPimQAAAAJ:bFI3QPDXJZMC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=BKfPimQAAAAJ:RYcK_YlVTxYC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=BKfPimQAAAAJ:J_g5lzvAfSwC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=BKfPimQAAAAJ:qxL8FJ1GzNcC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=BKfPimQAAAAJ:W7OEmFMy1HYC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=BKfPimQAAAAJ:d1gkVwhDpl0C
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=BKfPimQAAAAJ:2P1L_qKh6hAC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=BKfPimQAAAAJ:RGFaLdJalmkC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=BKfPimQAAAAJ:D03iK_w7-QYC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=BKfPimQAAAAJ:ULOm3_A8WrAC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=BKfPimQAAAAJ:70eg2SAEIzsC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=BKfPimQAAAAJ:HoB7MX3m0LUC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=BKfPimQAAAAJ:a0OBvERweLwC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=BKfPimQAAAAJ:YFjsv_pBGBYC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=BKfPimQAAAAJ:YsMSGLbcyi4C
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=BKfPimQAAAAJ:u5HHmVD_uO8C
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=BKfPimQAAAAJ:j3f4tGmQtD8C
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=BKfPimQAAAAJ:9yKSN-GCB0IC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=BKfPimQAAAAJ:8k81kl-MbHgC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=BKfPimQAAAAJ:_xSYboBqXhAC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=BKfPimQAAAAJ:lSLTfruPkqcC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=BKfPimQAAAAJ:ns9cj8rnVeAC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=BKfPimQAAAAJ:ZHo1McVdvXMC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=BKfPimQAAAAJ:JV2RwH3_ST0C
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=BKfPimQAAAAJ:NaGl4SEjCO4C
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=BKfPimQAAAAJ:zA6iFVUQeVQC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=BKfPimQAAAAJ:M3ejUd6NZC8C
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=BKfPimQAAAAJ:R3hNpaxXUhUC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=BKfPimQAAAAJ:2osOgNQ5qMEC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=BKfPimQAAAAJ:isC4tDSrTZIC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=BKfPimQAAAAJ:GnPB-g6toBAC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=BKfPimQAAAAJ:zYLM7Y9cAGgC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=BKfPimQAAAAJ:Se3iqnhoufwC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=BKfPimQAAAAJ:qjMakFHDy7sC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=BKfPimQAAAAJ:SeFeTyx0c_EC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=BKfPimQAAAAJ:LkGwnXOMwfcC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=BKfPimQAAAAJ:pqnbT2bcN3wC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=BKfPimQAAAAJ:g5m5HwL7SMYC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=BKfPimQAAAAJ:pyW8ca7W8N0C
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=BKfPimQAAAAJ:M05iB0D1s5AC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=BKfPimQAAAAJ:Zph67rFs4hoC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=BKfPimQAAAAJ:eQOLeE2rZwMC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=BKfPimQAAAAJ:Tyk-4Ss8FVUC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=BKfPimQAAAAJ:IjCSPb-OGe4C
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=BKfPimQAAAAJ:UeHWp8X0CEIC
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=BKfPimQAAAAJ:MXK_kJrjxJIC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=BKfPimQAAAAJ:MXK_kJrjxJIC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=BKfPimQAAAAJ:YOwf2qJgpHMC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=BKfPimQAAAAJ:MXK_kJrjxJIC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=BKfPimQAAAAJ:MXK_kJrjxJIC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=BKfPimQAAAAJ:YOwf2qJgpHMC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=BKfPimQAAAAJ:MXK_kJrjxJIC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=BKfPimQAAAAJ:MXK_kJrjxJIC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=BKfPimQAAAAJ:YOwf2qJgpHMC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=BKfPimQAAAAJ:bFI3QPDXJZMC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=BKfPimQAAAAJ:MXK_kJrjxJIC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=BKfPimQAAAAJ:MXK_kJrjxJIC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=David%20%C3%81lvarez%20Mart%C3%ADnez
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Found 1 authors
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&user=BKfPimQAAAAJ&pagesize=100
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=BKfPimQAAAAJ:MXK_kJrjxJIC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=BKfPimQAAAAJ:MXK_kJrjxJIC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=BKfPimQAAAAJ:MXK_kJrjxJIC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=BKfPimQAAAAJ:MXK_kJrjxJIC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=BKfPimQAAAAJ:MXK_kJrjxJIC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=BKfPimQAAAAJ:MXK_kJrjxJIC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=BKfPimQAAAAJ:YOwf2qJgpHMC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=BKfPimQAAAAJ:bFI3QPDXJZMC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=BKfPimQAAAAJ:MXK_kJrjxJIC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=BKfPimQAAAAJ:MXK_kJrjxJIC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=BKfPimQAAAAJ:MXK_kJrjxJIC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=BKfPimQAAAAJ:YOwf2qJgpHMC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=BKfPimQAAAAJ:bFI3QPDXJZMC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=David%20%C3%81lvarez%20Mart%C3%ADnez
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Found 1 authors
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&user=BKfPimQAAAAJ&pagesize=100
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&user=BKfPimQAAAAJ&pagesize=100
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=BKfPimQAAAAJ:MXK_kJrjxJIC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=BKfPimQAAAAJ:MXK_kJrjxJIC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=BKfPimQAAAAJ:YOwf2qJgpHMC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=BKfPimQAAAAJ:bFI3QPDXJZMC
+INFO:scholarly:Session proxy config is {}
