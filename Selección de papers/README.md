@@ -1,0 +1,3 @@
+# Paper relevance
+
+Este módulo determina la lista de artículos más relevantes para la construcción de resúmenes. Se usa la API de búsqueda de Google Scholar para realizar 2 niveles de (Related Articles) y una medición de referencias cruzadas. Las apariciones múltiples, contenido de palabras clave y red de citaciones asignan un puntaje que determinará el contenido que se analizará para el artículo de survey. 
