@@ -1,0 +1,32 @@
+
+#Comandos de iniciación de servidor 
+sudo service mongodb start 
+sudo systemctl start mongod
+
+#Comando de crontab 
+/sbin/service cron start
+
+#Comando para creación de índices en los abstrack
+db.Papers.createIndex({Titulo: "text", abstract:"text"})
+
+#Comando para agregar indices en las pág. de PlanesDeDesarrollo
+db.PaginasPlanesDesarrollo.createIndex({"Texto":"text"}, {default_language: "spanish"})
+
+
+#Comando para que se imprima los indices. 
+db.PaginasPlanesDesarrollo.getIndex()
+
+#Comando para eliminar indices
+db.PaginasPlanesDesarrollo.dropIndex("Texto_text")
+
+
+#Comando para iniciar el servici de API
+uwsgi --socket 0.0.0.0:5000 --protocol=http -w wsgi:app
+
+
+
+Lista de librerias (y sus versiones indispensables)
+pandas==1.0.3
+transformers==4.1.1
+
+
